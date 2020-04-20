@@ -8,6 +8,6 @@ MITライセンスにて利用可能です。
 
 # Contact 連絡先
 You can send us requests by GitHub issues or Google Forms  
-GitHubのIssue機能または以下のURLよりGoogle Formsにて要望できます。
+GitHubのIssue機能または以下のURLよりGoogle Formsにて要望できます。  
 https://forms.gle/keugeGeoNhigEYBM7
 
