@@ -1,9 +1,9 @@
 # LaoLearningModule ラオス語学習モジュール
-This repository provides free resources available for Lao language learning. 
+This repository provides free resources available for Lao language learning.  
 このリポジトリはラオス語学習用のフリー素材を提供します。
 
 # License ライセンス
-Available under MIT license
+Available under MIT license  
 MITライセンスにて利用可能です。
 
 # Contact 連絡先
